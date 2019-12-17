@@ -1,7 +1,7 @@
-# TinyCircuits Whisker Audio Amplifier
+# TinyCircuits Wireling Audio Amplifier
 # AST1031 Rev2
 
-The design files are located under design_files/ for the TinyCircuits AST1031 Rev 2 PCB. This is a whisker board which features a Class-D audio amplifier and speaker connections to boost an audio signal to a speaker.
+The design files are located under design_files/ for the TinyCircuits AST1031 Rev 2 PCB. This is a Wireling board which features a Class-D audio amplifier and speaker connections to boost an audio signal to a speaker.
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
